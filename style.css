@@ -1,0 +1,25 @@
+.profile {
+  width: 150px;
+  height: 150px;
+  border-radius: 200px;
+  border: solid #fafafa 3px;
+  position: relative;
+  vertical-align: middle;
+}
+
+/*header{
+  background:url("./linkedinback.jpg");
+}*/
+
+.jumbotron{
+  color: #fafafa;
+}
+
+body{
+  background: url("./linkedinback.jpg");
+}
+
+.whitewash{
+  background-color: rgba(255, 255, 255, 0.8);
+
+}
